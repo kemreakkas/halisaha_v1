@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1045972564206",
+    "firebase_url": "https://halisaha-bb47d-default-rtdb.firebaseio.com",
+    "project_id": "halisaha-bb47d",
+    "storage_bucket": "halisaha-bb47d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045972564206:android:9b401530fb62e123881bff",
+        "android_client_info": {
+          "package_name": "com.sport.halisaha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045972564206-pnotq637pdqk1um61o92m350h45m7m9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nPEot6shCNxuYbuiA6my5f5JvQuSC7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045972564206-pnotq637pdqk1um61o92m350h45m7m9j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1045972564206-kqgtg6q7oqlq0bg5jpuk2eh6e871nntr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spor.halisaha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
